@@ -1,0 +1,28 @@
+.Navigationbar{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.NAVIGATE{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.LOGO{
+    font-size: larger;
+    font-weight: 30px;
+    color: aqua;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 25px;
+}
+.desc{
+    font-style: italic;
+    color: chocolate;
+}
